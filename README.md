@@ -6,4 +6,4 @@ Both segemnts of code have modifiable hyperparameters. These include: epochs, ba
 The first segment of the code focuses on the learning network on the MNIST dataset. 
 The second segment of the code focuses on the learning network on the CIFAR10 dataset.
 Each network has its own loss function for training and testing data.
-Loss results are shown with percentages during each epoch throughout the runtime of the program.
+Loss results are shown with percentages during each epoch throughout the runtime of the program and at the end with a graph.
